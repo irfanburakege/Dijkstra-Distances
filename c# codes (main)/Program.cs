@@ -11,8 +11,6 @@ namespace project1_1
         static double INFINITY = double.MaxValue;
         static void Main(string[] args)
         {
-
-            
             //cities name list index 0 is null for plates
             string[] citiesNames = {"","Adana", "Adıyaman", "Afyon", "Ağrı", "Amasya", "Ankara", "Antalya", "Artvin", "Aydın", "Balıkesir",
             "Bilecik", "Bingöl", "Bitlis", "Bolu", "Burdur", "Bursa", "Çanakkale", "Çankırı", "Çorum", "Denizli",
